@@ -1,0 +1,7 @@
+网址是http://localhost:8080/index.html
+买家账号
+lusdvh0951@sandbox.com
+登录密码
+111111
+支付密码
+111111
